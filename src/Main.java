@@ -65,7 +65,7 @@ public class Main {
                             }
                             break;
                         case 4:
-                            System.out.print("Güvenli bir şekilde çıkış yapıyorsunuz... HOŞÇAKALIN!");
+                            System.out.print("Güvenli bir şekilde çıkış yapıyorsunuz... HOŞÇAKALIN! ");
                             break;
                     }
                 }
