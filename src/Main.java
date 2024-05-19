@@ -16,7 +16,7 @@ public class Main {
 
         if(tcNo.length() == 11) {
             if (sysTcNo==tcNo || sifre==sifre) {
-                System.out.print("Başarı bir şekilde giriş yaptınız.");
+                System.out.print("Başarı bir şekilde giriş yaptınız..");
             }
         }
         else{
