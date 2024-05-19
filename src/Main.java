@@ -11,7 +11,7 @@ public class Main {
 
         System.out.print("Lütfen TC Kimlik numaranızı giriniz:");
         tcNo = sc.nextLine();
-        System.out.print("Lütfen şifrenizi giriniz:");,
+        System.out.print("Lütfen şifrenizi giriniz:");
         sifre = sc.nextLine();
 
         if(tcNo.length() == 11) {
